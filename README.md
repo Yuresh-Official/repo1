@@ -5,7 +5,7 @@ Login Your Nimesh Shared VPS
 ```
 
 ```bash
-,
+https://gist.github.com/Yuresh-Official/81b4d9146d9ab89819e8a89e32b5135e
 ```
 
 ```bash
